@@ -1,9 +1,8 @@
 # projetoweb.teste
 Projeto teste para aprender a criar um repositório.
 
-h1
-* Projeto Web
-  ** Equipe
+# Projeto Web
+## Equipe:
   1. Ana Carolina
   2. Camily
   3. Joice
